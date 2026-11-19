@@ -87,5 +87,7 @@ eco-green/
 └── README.md
 ```
 
-**Survei Kebutuhan Data Untuk Web**
-https://docs.google.com/forms/d/e/1FAIpQLSed0Ry2RTNF2Mv1HVxdtjVE9C9ZxKkhT_PW4nR2nRJ0GsIdDw/viewform
+**Hasil Survei Kebutuhan Data Untuk Web**
+[https://docs.google.com/forms/d/e/1FAIpQLSed0Ry2RTNF2Mv1HVxdtjVE9C9ZxKkhT_PW4nR2nRJ0GsIdDw/viewform](https://docs.google.com/forms/d/1B6WvQln0b2qAN3GwVTJuonNm2h4s0nWe-sdsTmsHGfw/edit#responses)
+
+
