@@ -51,7 +51,7 @@ Platform website peduli lingkungan yang menyajikan informasi dan edukasi isu lin
    ```
 2. Masuk ke folder proyek
    ```bash
-   cd eco-green
+   cd EcoVein
    ```
 3. Sesuaikan konfigurasi database di file `.env` atau `config.php`
 4. Jalankan server lokal (contoh dengan Node.js):
@@ -65,7 +65,7 @@ Platform website peduli lingkungan yang menyajikan informasi dan edukasi isu lin
 ## 📁 Struktur Direktori
 
 ```
-eco-green/
+EcoVein/
 ├── index.html
 ├── edukasi.html
 ├── donasi.html
