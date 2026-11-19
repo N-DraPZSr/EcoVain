@@ -1,4 +1,4 @@
-# 🌿 Eco-Green
+# 🌿 EcoVein
 
 Platform website peduli lingkungan yang menyajikan informasi dan edukasi isu lingkungan hidup, sekaligus mewadahi partisipasi aktif masyarakat melalui fitur donasi dan pendaftaran relawan, dengan dashboard transparansi yang terbuka untuk publik.
 
@@ -47,7 +47,7 @@ Platform website peduli lingkungan yang menyajikan informasi dan edukasi isu lin
 
 1. Clone repositori ini
    ```bash
-   git clone https://github.com/username/eco-green.git
+   git clone https://github.com/N-DraPZSr/EcoVein.git
    ```
 2. Masuk ke folder proyek
    ```bash
