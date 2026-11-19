@@ -86,9 +86,3 @@ eco-green/
 │   └── wireframe.pdf
 └── README.md
 ```
-
----
-
-## ⚠️ Catatan
-
-Data konten (nama kegiatan, statistik, dll.) bersifat simulasi untuk keperluan pembelajaran.
