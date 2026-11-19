@@ -21,10 +21,10 @@ Platform website peduli lingkungan yang berfungsi sebagai pusat informasi dan ed
 
 ## 🎯 Tujuan Platform
 
-1. **Menyediakan Pusat Informasi Lingkungan** — Menyajikan informasi dan edukasi terstruktur mengenai berbagai isu lingkungan hidup bagi masyarakat luas.
-2. **Mewadahi Partisipasi Aktif Masyarakat** — Memfasilitasi donasi dan pendaftaran relawan melalui akun pengguna yang terverifikasi.
-3. **Menjunjung Tinggi Akuntabilitas dan Transparansi** — Menyajikan dashboard transparansi berbasis data real-time agar donatur dan relawan dapat memantau dampak serta penggunaan dana secara terbuka.
-4. **Menghadirkan Pengelolaan Sistem yang Terintegrasi** — Membangun panel admin untuk mengelola data pengguna, konten edukasi, laporan donasi, dan kegiatan relawan secara terpusat.
+1. **Menyediakan Pusat Informasi Lingkungan**: Menyajikan informasi dan edukasi terstruktur mengenai berbagai isu lingkungan hidup bagi masyarakat luas.
+2. **Mewadahi Partisipasi Aktif Masyarakat**: Memfasilitasi donasi dan pendaftaran relawan melalui akun pengguna yang terverifikasi.
+3. **Menjunjung Tinggi Akuntabilitas dan Transparansi**: Menyajikan dashboard transparansi berbasis data real-time agar donatur dan relawan dapat memantau dampak serta penggunaan dana secara terbuka.
+4. **Menghadirkan Pengelolaan Sistem yang Terintegrasi**: Membangun panel admin untuk mengelola data pengguna, konten edukasi, laporan donasi, dan kegiatan relawan secara terpusat.
 
 ---
 
