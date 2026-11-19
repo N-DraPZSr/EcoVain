@@ -1,4 +1,4 @@
-# Requirements —> Platform EcoVein
+# Requirements Platform EcoVein
 
 ## Studi Kasus
 
