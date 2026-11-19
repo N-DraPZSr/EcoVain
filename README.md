@@ -2,7 +2,7 @@
 
 Platform website peduli lingkungan yang menyajikan informasi dan edukasi isu lingkungan hidup, sekaligus mewadahi partisipasi aktif masyarakat melalui fitur donasi dan pendaftaran relawan, dengan dashboard transparansi yang terbuka untuk publik.
 
-> Proyek ini dibuat sebagai tugas praktik kelompok — Teknik Multimedia Digital, Politeknik Negeri Jakarta, 2026.
+> Teknik Multimedia Digital, Politeknik Negeri Jakarta, 2026.
 
 ---
 
